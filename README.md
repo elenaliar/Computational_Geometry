@@ -6,4 +6,4 @@ This jupyter notebook contains python implementation of these algorithms for the
 * Gift Wrapping algorithm for 2D
 * QuickHull algorithm for 2D
 * Divide and Conquer algorithm for 2D
-* Incremental algorithm for 3D
+* QuickHull algorithm for 3D
